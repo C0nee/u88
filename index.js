@@ -6,3 +6,4 @@ http.createServer(function(req,res){
     res.end('Adres ip klienta' + req.socket.remoteAddress);
 }).listen(8080);
 
+//sdasasdsd
